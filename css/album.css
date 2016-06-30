@@ -1,0 +1,14 @@
+.hide-bullets {
+    list-style:none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    width: 100%;
+}
